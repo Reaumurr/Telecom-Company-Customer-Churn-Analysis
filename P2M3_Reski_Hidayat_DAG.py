@@ -1,11 +1,6 @@
 '''
 =================================================
-Milestone 3
-
-Nama  : Reski Hidayat
-Batch : FTDS-015-HCK
-
-Program ini dibuat untuk melakukan automatisasi transform dan load data dari PostgreSQL ke ElasticSearch. Adapun dataset yang dipakai adalah dataset mengenai penjualan mobil di Indonesia selama tahun 2020.
+Program ini dibuat untuk melakukan automatisasi transform dan load data dari PostgreSQL ke ElasticSearch. Adapun dataset yang dipakai adalah dataset mengenai  Iranian Telecom Company Customer Churn.
 =================================================
 '''
 
