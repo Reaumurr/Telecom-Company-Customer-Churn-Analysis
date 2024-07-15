@@ -1,6 +1,6 @@
 '''
 =================================================
-Program ini dibuat untuk melakukan automatisasi transform dan load data dari PostgreSQL ke ElasticSearch. Adapun dataset yang dipakai adalah dataset mengenai  Iranian Telecom Company Customer Churn.
+Program ini dibuat untuk melakukan automatisasi transform dan load data dari PostgreSQL ke ElasticSearch. Adapun dataset yang dipakai adalah dataset mengenai Iranian Telecom Company Customer Churn.
 =================================================
 '''
 
